@@ -1,4 +1,3 @@
-# GoodReads_ETL_Pipeline
 # GoodReads Data Pipeline
 
 <img src="https://github.com/san089/goodreads_etl_pipeline/blob/master/docs/images/goodreads.png" align="centre">
